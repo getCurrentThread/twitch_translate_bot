@@ -1,0 +1,8 @@
+{
+"naver_client_id" : "1A2BCdefghi3KlmNOp4Q_네이버클라이언트ID", 
+"naver_client_secret" : "tP6SYcLD7y_네이버클라이언트시크릿",
+"bot_irc_token" : "oauth:abcdef123g4ijk56nopqrs7w8z9012_봇IRC토큰",
+"bot_client_id" : "abcde12f3gh4jklm5op7r3tu50wxyz_봇클라이언트ID",
+"bot_nick" : "봇ID",
+"bot_initial_channels" : ["스트리머아이디1", "streamerID_2", "streamerID_3"]
+}
